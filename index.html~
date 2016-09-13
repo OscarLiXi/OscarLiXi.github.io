@@ -5,11 +5,11 @@
 <script src="semantic/dist/semantic.min.js"></script>
 
 <body>
-<h1>Hello World</h1>
-<p>I'm hosted with GitHub Pages.</p>
+<h1>狼人杀</h1>
+<p>天黑请闭眼</p>
 
 <button class="ui button">
-  Follow
+  开始游戏
 </button>
 
 </body>
